@@ -1,0 +1,6 @@
+[package]
+name = "Verbose_Bird"
+version = "0.0.1"
+authors = ["Songbird0 <chaacygg@gmail.com>"]
+
+[dependencies]
