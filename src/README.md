@@ -21,7 +21,7 @@ use loggers_pack::proce::info;
 
 fn main()
 {
-
+    info!("say something");
 }
 
 ```
