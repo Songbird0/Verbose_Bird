@@ -269,11 +269,26 @@ mod oo_tests
 	impl Logger for Alice{/*...*/}
 
 	#[test]
-	fn pack_logger_oop()
+	fn pack_logger_oop_info()
 	{
 		Alice::info("@Alice", "Hello, I'm Alice ", "Peterson !");
+	}
+
+	#[test]
+	fn pack_logger_oop_wan()
+	{
 		Alice::warn("@Alice", "Hello, I'm Alice ", "Peterson !");
+	}
+
+	#[test]
+	fn pack_logger_oop_error()
+	{
 		Alice::error("@Alice", "Hello, I'm Alice ", "Peterson !");
+	}
+
+	#[test]
+	fn pack_logger_oop_success()
+	{
 		Alice::success("@Alice", "Hello, I'm Alice ", "Peterson !");
 	}
 }
