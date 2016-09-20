@@ -12,4 +12,4 @@ cf. le répertoire *src* pour plus d'informations à propos de ses outils.
 
 Verbose_bird is a basic library, dedicated to log “generators”, easy to use and straight to the point.
 
-Please check the *src* folder for more information about its tools.
+Please check the [`src`](https://github.com/Songbird0/Verbose_Bird/blob/master/src/README.md) folder for more information about its tools.
