@@ -15,9 +15,9 @@ Si votre application n'est pas orientée objet, vous pouvez simplement utiliser 
 
 ```Rust
 
+#[macro_use]
 extern crate verbose_bird;
 
-use loggers_pack::proce::info;
 
 fn main()
 {
