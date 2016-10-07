@@ -1,6 +1,18 @@
 [package]
 name = "verbose_bird"
-version = "0.0.1"
+version = "0.3.2"
 authors = ["Songbird0 <chaacygg@gmail.com>"]
+description = "An awesome homemade loggers pack."
+documentation = "https://github.com/Songbird0/Verbose_Bird/blob/master/src/README.md"
+homepage = "https://github.com/Songbird0/Verbose_Bird"
+repository = "https://github.com/Songbird0/Verbose_Bird"
+
+readme = "README.md"
+
+keywords = ["Rust", "log", "loggers", "pack"]
+
+license = "GPL-3.0"
+
+license-file = "LICENSE.md"
 
 [dependencies]
