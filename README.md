@@ -13,3 +13,8 @@ cf. le répertoire *src* pour plus d'informations à propos de ses outils.
 Verbose_bird is a basic library, dedicated to log “generators”, easy to use and straight to the point.
 
 Please check the [`src`](https://github.com/Songbird0/Verbose_Bird/blob/master/src/README.md) folder for more information about its tools.
+
+
+## Warning
+
+I've created this library to learn the rust language exclusivly. Please don't use this piece of sh\*t.
