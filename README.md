@@ -17,4 +17,4 @@ Please check the [`src`](https://github.com/Songbird0/Verbose_Bird/blob/master/s
 
 ## Warning
 
-I've created this library to learn the rust language exclusivly. Please don't use this piece of sh\*t.
+I've created this library to learn the rust language only. Please don't use this piece of sh\*t.
